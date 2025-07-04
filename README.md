@@ -2,12 +2,6 @@
 
 Pacman VR experience using web framework [A-Frame](https://aframe.io/)
 
-## Live Demo
-
-https://shaqian.github.io/pacman/
-
-![demo](demo.gif)
-
 ## Run the App
 
 ### Install Dependencies
